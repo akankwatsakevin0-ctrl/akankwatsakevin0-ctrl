@@ -2,6 +2,7 @@
 
 # Hey there, I'm Akankwatsa Kevin 👋
 
+[![Visitors](https://visitcount.itsvg.in/api?id=akankwatsakevin0-ctrl&label=Profile%20Views&color=38BDF8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 [![GitHub followers](https://img.shields.io/github/followers/akankwatsakevin0-ctrl?style=social)](https://github.com/akankwatsakevin0-ctrl)
 [![Twitter](https://img.shields.io/badge/-kevinakankwatsa-1DA1F2?logo=x&logoColor=fff)](https://x.com/kevinakankwatsa)
 [![LinkedIn](https://img.shields.io/badge/-Kevin%20Akankwatsa-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kevin-akankwatsa-b77171350)
@@ -44,6 +45,7 @@ I'm a passionate IT student with a drive for building software that makes a diff
 | [Ascend Digital](https://github.com/akankwatsakevin0-ctrl/ASCEND_DIGITAL--Freelancer-s-Market_place-) | Multi-vendor freelance marketplace | Next.js, Prisma, SQLite |
 | [UG Scholar](https://github.com/akankwatsakevin0-ctrl/UG_Scholar_AdaptiveLearning_platform) | Adaptive learning platform with parental controls | React, Express, MySQL |
 | [StudyGroup Finder](https://github.com/akankwatsakevin0-ctrl/StudyFinder_Frontend) | Study group discovery & management platform | React, Express, MySQL |
+| [Portfolio](https://github.com/akankwatsakevin0-ctrl/Main-Portfolio) | Personal portfolio — [Live](https://akankwatsakevin0-ctrl.github.io/Main-Portfolio/) | HTML, CSS, JS |
 
 ---
 
@@ -60,10 +62,19 @@ I'm a passionate IT student with a drive for building software that makes a diff
 
 ---
 
+## ☕ Support
+
+If you like my work, consider supporting me:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=000)](https://www.buymeacoffee.com/kevinakankwatsa)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=fff)](https://ko-fi.com/kevinakankwatsa)
+
+---
+
 <div align="center">
   
-**"Building the future, one commit at a time."**  
+**"Building the future, one commit at a time."** 
 
-[GitHub](https://github.com/akankwatsakevin0-ctrl) • [Email](mailto:akankwatsakevin0@gmail.com)
+[GitHub](https://github.com/akankwatsakevin0-ctrl) • [LinkedIn](https://www.linkedin.com/in/kevin-akankwatsa-b77171350) • [Email](mailto:akankwatsakevin0@gmail.com)
 
 </div>
