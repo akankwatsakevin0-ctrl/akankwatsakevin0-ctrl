@@ -4,6 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/akankwatsakevin0-ctrl?style=social)](https://github.com/akankwatsakevin0-ctrl)
 [![Twitter](https://img.shields.io/badge/-kevinakankwatsa-1DA1F2?logo=x&logoColor=fff)](https://x.com/kevinakankwatsa)
+[![LinkedIn](https://img.shields.io/badge/-Kevin%20Akankwatsa-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kevin-akankwatsa-b77171350)
 [![Email](https://img.shields.io/badge/-akankwatsakevin0@gmail.com-D14836?logo=gmail&logoColor=fff)](mailto:akankwatsakevin0@gmail.com)
 
 **BSc Information Technology @ Uganda Christian University**  
