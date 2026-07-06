@@ -1,0 +1,67 @@
+<div align="center">
+
+# Hey there, I'm Akankwatsa Kevin 👋
+
+[![GitHub followers](https://img.shields.io/github/followers/akankwatsakevin0-ctrl?style=social)](https://github.com/akankwatsakevin0-ctrl)
+[![Twitter](https://img.shields.io/badge/-akankwatsakevin0--ctrl-1DA1F2?logo=x&logoColor=fff)](https://x.com/akankwatsakevin0-ctrl)
+[![Email](https://img.shields.io/badge/-akankwatsakevin0@gmail.com-D14836?logo=gmail&logoColor=fff)](mailto:akankwatsakevin0@gmail.com)
+
+**BSc Information Technology @ Uganda Christian University**  
+💻 Full-stack developer | 🚀 Open-source enthusiast | 🌍 Uganda
+
+</div>
+
+---
+
+## About Me
+
+I'm a passionate IT student with a drive for building software that makes a difference. I specialize in full-stack web development with React, Node.js, and modern frameworks like Next.js. I'm always open to collaborate on interesting projects and learn new technologies.
+
+- 🔭 Currently working on **Ascend Digital** — a multi-vendor freelance marketplace
+- 🌱 Learning **advanced backend architecture** and **cloud deployment**
+- 👯 Looking to collaborate on **open-source web applications**
+- 💬 Ask me about **React, Next.js, Express, MySQL, and Prisma**
+- 📫 Reach me at: **akankwatsakevin0@gmail.com**
+- ⚡ Fun fact: I believe clean code is the foundation of great software
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Bootstrap, Vite  
+**Backend:** Node.js, Express, Next.js API routes, JWT, Prisma  
+**Database:** MySQL, SQLite, Sequelize  
+**Tools:** Git, GitHub, pnpm, Postman, VS Code  
+**Languages:** JavaScript, TypeScript, Python, Java, HTML, CSS
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Ascend Digital](https://github.com/akankwatsakevin0-ctrl/ASCEND_DIGITAL--Freelancer-s-Market_place-) | Multi-vendor freelance marketplace | Next.js, Prisma, SQLite |
+| [UG Scholar](https://github.com/akankwatsakevin0-ctrl/UG_Scholar_AdaptiveLearning_platform) | Adaptive learning platform with parental controls | React, Express, MySQL |
+| [StudyGroup Finder](https://github.com/akankwatsakevin0-ctrl/StudyFinder_Frontend) | Study group discovery & management platform | React, Express, MySQL |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akankwatsakevin0-ctrl&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akankwatsakevin0-ctrl&layout=compact&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+  
+**"Building the future, one commit at a time."**  
+
+[GitHub](https://github.com/akankwatsakevin0-ctrl) • [Email](mailto:akankwatsakevin0@gmail.com)
+
+</div>
