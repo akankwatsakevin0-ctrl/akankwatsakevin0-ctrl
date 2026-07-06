@@ -19,8 +19,8 @@
 I'm a passionate IT student with a drive for building software that makes a difference. I specialize in full-stack web development with React, Node.js, and modern frameworks like Next.js. I'm always open to collaborate on interesting projects and learn new technologies.
 
 - 🔭 Currently working on **Ascend Digital** — a multi-vendor freelance marketplace
-- 🌱 Learning **advanced backend architecture** and **cloud deployment**
-- 👯 Looking to collaborate on **open-source web applications**
+- 🌱 Currently learning **Advanced backend architecture, Cloud deployment (AWS/Azure), DevOps practices**
+- 👯 Looking to collaborate on **Open-source web applications**
 - 💬 Ask me about **React, Next.js, Express, MySQL, and Prisma**
 - 📫 Reach me at: **akankwatsakevin0@gmail.com**
 - ⚡ Fun fact: I believe clean code is the foundation of great software
@@ -54,6 +54,8 @@ I'm a passionate IT student with a drive for building software that makes a diff
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akankwatsakevin0-ctrl&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akankwatsakevin0-ctrl&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akankwatsakevin0-ctrl&theme=dark)
 
 </div>
 
