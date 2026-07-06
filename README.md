@@ -3,7 +3,7 @@
 # Hey there, I'm Akankwatsa Kevin 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/akankwatsakevin0-ctrl?style=social)](https://github.com/akankwatsakevin0-ctrl)
-[![Twitter](https://img.shields.io/badge/-akankwatsakevin0--ctrl-1DA1F2?logo=x&logoColor=fff)](https://x.com/akankwatsakevin0-ctrl)
+[![Twitter](https://img.shields.io/badge/-kevinakankwatsa-1DA1F2?logo=x&logoColor=fff)](https://x.com/kevinakankwatsa)
 [![Email](https://img.shields.io/badge/-akankwatsakevin0@gmail.com-D14836?logo=gmail&logoColor=fff)](mailto:akankwatsakevin0@gmail.com)
 
 **BSc Information Technology @ Uganda Christian University**  
