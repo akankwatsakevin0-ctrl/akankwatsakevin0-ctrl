@@ -106,8 +106,8 @@ A responsive, conversion-optimised SaaS landing page that communicates product v
 
 | | |
 |:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akankwatsakevin0-ctrl&show_icons=true&theme=dark&border_color=334155&bg_color=0F172A) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akankwatsakevin0-ctrl&layout=compact&theme=dark&border_color=334155&bg_color=0F172A) |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akankwatsakevin0-ctrl&theme=dark&border=334155&background=0F172A) | ![Trophy](https://github-profile-trophy.vercel.app/?username=akankwatsakevin0-ctrl&theme=darkhub&no-frame=true&row=2&column=3) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akankwatsakevin0-ctrl&show_icons=true&rank_icon=github&theme=dark&border_color=334155&bg_color=0F172A) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akankwatsakevin0-ctrl&layout=compact&theme=dark&border_color=334155&bg_color=0F172A) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=akankwatsakevin0-ctrl&theme=dark&border=334155&background=0F172A) | ![Trophy](https://github-profile-trophy.vercel.app/?username=akankwatsakevin0-ctrl&theme=darkhub&no-frame=true&row=2&column=3) |
 
 </div>
 
