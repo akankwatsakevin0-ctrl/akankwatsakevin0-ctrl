@@ -2,7 +2,7 @@
 
 # Hey there, I'm Akankwatsa Kevin 👋
 
-[![Visitors](https://visitcount.itsvg.in/api?id=akankwatsakevin0-ctrl&label=Profile%20Views&color=38BDF8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=akankwatsakevin0-ctrl&color=38BDF8&style=flat-square&label=Profile+Views)](https://github.com/akankwatsakevin0-ctrl)
 [![GitHub followers](https://img.shields.io/github/followers/akankwatsakevin0-ctrl?style=social)](https://github.com/akankwatsakevin0-ctrl)
 [![Twitter](https://img.shields.io/badge/-kevinakankwatsa-1DA1F2?logo=x&logoColor=fff)](https://x.com/kevinakankwatsa)
 [![LinkedIn](https://img.shields.io/badge/-Kevin%20Akankwatsa-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kevin-akankwatsa-b77171350)
