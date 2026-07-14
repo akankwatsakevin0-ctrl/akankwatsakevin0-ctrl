@@ -8,8 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/-Kevin%20Akankwatsa-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kevin-akankwatsa-b77171350)
 [![Email](https://img.shields.io/badge/-akankwatsakevin0@gmail.com-D14836?logo=gmail&logoColor=fff)](mailto:akankwatsakevin0@gmail.com)
 
-**BSc Information Technology @ Uganda Christian University**  
-Full-stack developer | Open-source enthusiast | Uganda
+**Full-Stack Developer | React, TypeScript, Node.js | Available for Remote Contracts**  
+BSc Information Technology @ Uganda Christian University | Uganda
 
 </div>
 
@@ -17,13 +17,15 @@ Full-stack developer | Open-source enthusiast | Uganda
 
 ## About Me
 
-I'm a passionate IT student with a drive for building software that makes a difference. I specialize in full-stack web development with React, Node.js, and modern frameworks. I'm always open to collaborate on interesting projects and learn new technologies.
+I build production-grade web applications with a focus on clean code, performance, and global business requirements like GDPR compliance and multi-currency support. I've completed three significant full-stack portfolio projects — a multi-tenant invoice tracker, an e-commerce store, and a SaaS landing page — all deployed and publicly accessible.
 
-- Currently working on **Ascend Digital** — a multi-vendor freelance marketplace
-- Currently learning **Advanced backend architecture, Cloud deployment (AWS/Azure), DevOps practices**
-- Looking to collaborate on **Open-source web applications**
-- Ask me about **React, Next.js, Express, MySQL, and Prisma**
-- Reach me at: **akankwatsakevin0@gmail.com**
+I specialize in the TypeScript ecosystem (React, Node.js, Express) and PostgreSQL, and I'm experienced with JWT auth, RESTful API design, CI/CD pipelines, and cloud deployment on Render and Vercel. I write testable, maintainable code and follow industry best practices from day one.
+
+I'm currently open to remote contract and freelance opportunities. If you need a reliable developer who can take a project from concept to deployment, let's talk.
+
+- **Email:** [akankwatsakevin0@gmail.com](mailto:akankwatsakevin0@gmail.com)
+- **LinkedIn:** [Kevin Akankwatsa](https://www.linkedin.com/in/kevin-akankwatsa-b77171350)
+- **Location:** Uganda (open to worldwide remote)
 
 ---
 
@@ -101,7 +103,7 @@ If you like my work, consider supporting me:
 
 <div align="center">
   
-**"Building the future, one commit at a time."** 
+**"Open to remote contracts — let's build something great together."** 
 
 [GitHub](https://github.com/akankwatsakevin0-ctrl) • [LinkedIn](https://www.linkedin.com/in/kevin-akankwatsa-b77171350) • [Email](mailto:akankwatsakevin0@gmail.com)
 
