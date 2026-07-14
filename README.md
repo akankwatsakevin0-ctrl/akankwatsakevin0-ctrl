@@ -39,7 +39,7 @@ I'm currently open to remote contract and freelance opportunities. If you need a
 
 A secure, multi-tenant invoicing platform that lets businesses manage clients, invoices, and users with full data isolation — built to meet real-world compliance and billing needs.
 
-**Live Demo:** [YOUR_DEMO_LINK_HERE]
+**Live Demo:** [https://invoice-tracker-api-kjsk.onrender.com](https://invoice-tracker-api-kjsk.onrender.com)
 
 **Key features:**
 - Role-based access control with JWT auth & refresh token rotation
@@ -55,7 +55,7 @@ A secure, multi-tenant invoicing platform that lets businesses manage clients, i
 
 A full-stack product catalog and shopping cart experience with real-time search, filtering, and a complete checkout flow — designed to demonstrate polished e-commerce UX patterns.
 
-**Live Demo:** [YOUR_DEMO_LINK_HERE]
+**Live Demo:** [https://shop-store-api-9clw.onrender.com](https://shop-store-api-9clw.onrender.com)
 
 **Key features:**
 - RESTful product API with category filtering, search, and pagination
@@ -71,7 +71,7 @@ A full-stack product catalog and shopping cart experience with real-time search,
 
 A responsive, conversion-optimised SaaS landing page that communicates product value through clear messaging, social proof, and a tiered pricing model.
 
-**Live Demo:** [YOUR_DEMO_LINK_HERE]
+**Live Demo:** [https://contracts-eta.vercel.app](https://contracts-eta.vercel.app)
 
 **Key features:**
 - 7-section layout: hero, features grid, stats bar, pricing table, testimonials, CTA, footer
