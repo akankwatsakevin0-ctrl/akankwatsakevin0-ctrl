@@ -30,7 +30,7 @@ I'm a passionate IT student with a drive for building software that makes a diff
 ## Featured Projects
 
 ### Multi-Tenant Invoice Tracker
-[![Live](https://img.shields.io/badge/Live-Demo-38BDF8?logo=render)](YOUR_INVOICE_URL_HERE)
+[![Live](https://img.shields.io/badge/Live-Demo-38BDF8?logo=render)](https://invoice-tracker-api-kjsk.onrender.com)
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github)](https://github.com/akankwatsakevin0-ctrl/Multi_tenant_invoice-tracker)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
@@ -39,7 +39,7 @@ I'm a passionate IT student with a drive for building software that makes a diff
 Production-grade multi-tenant invoice management platform with JWT auth, role-based access control, and full CRUD operations. Built with Express + TypeScript backend and React + Vite frontend.
 
 ### E-Commerce Store
-[![Live](https://img.shields.io/badge/Live-Demo-38BDF8?logo=render)](YOUR_STORE_URL_HERE)
+[![Live](https://img.shields.io/badge/Live-Demo-38BDF8?logo=render)](https://shop-store-api-9clw.onrender.com)
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github)](https://github.com/akankwatsakevin0-ctrl/Shop_Store)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
@@ -48,7 +48,7 @@ Production-grade multi-tenant invoice management platform with JWT auth, role-ba
 Full-stack e-commerce platform with product catalog, shopping cart, and checkout flow. TypeScript throughout — Express API with React + Vite frontend.
 
 ### FlowTrack — SaaS Landing Page
-[![Live](https://img.shields.io/badge/Live-Demo-38BDF8?logo=vercel)](YOUR_LANDING_URL_HERE)
+[![Live](https://img.shields.io/badge/Live-Demo-38BDF8?logo=vercel)](https://contracts-eta.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github)](https://github.com/akankwatsakevin0-ctrl/flowtrack-landing)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/)
