@@ -32,31 +32,52 @@ I'm currently open to remote contract and freelance opportunities. If you need a
 ## Featured Projects
 
 ### Multi-Tenant Invoice Tracker
-[![Live](https://img.shields.io/badge/Live-Demo-38BDF8?logo=render)](https://invoice-tracker-api-kjsk.onrender.com)
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github)](https://github.com/akankwatsakevin0-ctrl/Multi_tenant_invoice-tracker)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
 
-Production-grade multi-tenant invoice management platform with JWT auth, role-based access control, and full CRUD operations. Built with Express + TypeScript backend and React + Vite frontend.
+A secure, multi-tenant invoicing platform that lets businesses manage clients, invoices, and users with full data isolation — built to meet real-world compliance and billing needs.
+
+**Live Demo:** [YOUR_DEMO_LINK_HERE]
+
+**Key features:**
+- Role-based access control with JWT auth & refresh token rotation
+- Multi-tenant data isolation — each tenant's data is fully segregated
+- GDPR-compliant data export and account deletion
+- Multi-currency support with live exchange rate conversion
 
 ### E-Commerce Store
-[![Live](https://img.shields.io/badge/Live-Demo-38BDF8?logo=render)](https://shop-store-api-9clw.onrender.com)
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github)](https://github.com/akankwatsakevin0-ctrl/Shop_Store)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
 
-Full-stack e-commerce platform with product catalog, shopping cart, and checkout flow. TypeScript throughout — Express API with React + Vite frontend.
+A full-stack product catalog and shopping cart experience with real-time search, filtering, and a complete checkout flow — designed to demonstrate polished e-commerce UX patterns.
+
+**Live Demo:** [YOUR_DEMO_LINK_HERE]
+
+**Key features:**
+- RESTful product API with category filtering, search, and pagination
+- Persistent shopping cart with stock validation and localStorage sync
+- 3-step checkout flow with form validation and auto-formatting
+- Loading skeletons, empty states, and error handling with retry
 
 ### FlowTrack — SaaS Landing Page
-[![Live](https://img.shields.io/badge/Live-Demo-38BDF8?logo=vercel)](https://contracts-eta.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github)](https://github.com/akankwatsakevin0-ctrl/flowtrack-landing)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
 
-Responsive, pixel-perfect SaaS landing page with hero, features grid, pricing table, testimonials, and CTA sections.
+A responsive, conversion-optimised SaaS landing page that communicates product value through clear messaging, social proof, and a tiered pricing model.
+
+**Live Demo:** [YOUR_DEMO_LINK_HERE]
+
+**Key features:**
+- 7-section layout: hero, features grid, stats bar, pricing table, testimonials, CTA, footer
+- Gradient text treatments, hover animations, and responsive breakpoints
+- Clean component architecture for easy theming and content swaps
+- Built with React 18, Vite 8, Tailwind CSS 3, and Lucide icons
 
 ### Other Projects
 
